@@ -1,0 +1,13 @@
+---
+title: "Mi primer reporte"
+description: "Aquí verás mi primer reporte"
+date: "2026-08-22"
+---
+
+# Primer título
+
+La intención de este reporte es bla bla ....
+
+## Sección importante
+
+Principales hallazgos: bla bla...
